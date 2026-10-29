@@ -1,0 +1,4 @@
+name: raship-project
+dependencies:
+  - python=3.13
+  - pytest
